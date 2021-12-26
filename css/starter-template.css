@@ -1,0 +1,53 @@
+html,
+body {
+height: 100%;
+background-color: #000;
+}
+
+
+body {
+padding-top: 50px;
+}
+
+body {
+color: #fff;
+text-align: center;
+text-shadow: 0 1px 3px rgba(0, 0, 0, .5);
+}
+
+.starter-template {
+padding: 40px 15px;
+text-align: center;
+}
+
+.aboutme {
+background-color: #FDF2A2;
+color:#5e805e;
+}
+
+.mainbody{
+background-color: #333;
+}
+
+.my-modal-body {
+color: #000;
+text-align: center;
+text-shadow: 0 1px 3px rgba(0, 0, 0, .5);
+}
+
+.myheader {
+	color:#79fbc7;
+}
+
+.mybutton {
+	color:#5eedff;
+	background-color: #FDF2A2;
+}
+
+.mytitle {
+	color:#5eedff;
+	
+}
+
+
+
