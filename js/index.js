@@ -51,7 +51,7 @@ var des3 = 'poster';
 var des4 = 'sticker';	
 var project4 = {'introdcue':'project4 introduce','images':[{'url':'img/p4/1.jpg','description':des1},{'url':'img/p4/2.jpg','description':des1},{'url':'img/p4/3.jpg','description':des2}
 ,{'url':'img/p4/4.jpg','description':des2},{'url':'img/p4/5.jpg','description':des2},{'url':'img/p4/6.jpg','description':des2}
-,{'url':'img/p4/7.jpg','description':des2},{'url':'img/p4/8.jpg','description':des3},{'url':'img/p4/9.jpg','description':des3},{'url':'img/p4/10.jpg','description':des4},{'url':'img/p4/11.jpg','description':des4}]};
+,{'url':'img/p4/7.jpg','description':des2},{'url':'img/p4/8.jpg','description':des3},{'url':'img/p4/9.jpg','description':des3},{'url':'img/p4/10.jpg','description':des4},{'url':'img/p4/11.jpg','description':des4},{'url':'img/p4/12.jpg','description':des4}]};
 
 var project5 = {'introdcue':'project5 introduce','images':[{'url':'img/p5/1.jpg','description':'P5 1 image'},{'url':'img/1.jpg','description':'P1 2 image'},{'url':'img/1.jpg','description':'P1 3 image'}
 ,{'url':'img/1.jpg','description':'P1 3 image'},{'url':'img/1.jpg','description':'P1 4 image'},{'url':'img/1.jpg','description':'P1 5 image'},{'url':'img/1.jpg','description':'P1 6 image'}
