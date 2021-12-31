@@ -18,7 +18,7 @@ function getIntroduce() {
 var url1 = 'img/other/illustration/'
 var desp1 = "juicy cookie's other works, created from 2020 to 2021"
 var project1 = {'introdcue':desp1,'images':[{'url':url1+'1.jpg','description':'art jamming'},{'url':url1+'2.jpg','description':'profile photo'},{'url':url1+'3.jpg','description':'birthday'},
-{'url':url1+'4.jpg','description':'art jamming 2'},
+{'url':url1+'4.jpg','description':'art jamming 2'}, {'url':url1+'7.jpg','description':'the day of Juicycookie'}
 {'url':url1+'5.jpg','description':'sadness'},{'url':url1+'6.jpg','description':'Dr.Future'}]};
 
 
