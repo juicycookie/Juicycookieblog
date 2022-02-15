@@ -25,7 +25,7 @@ var project1 = {'introdcue':'project1 introduce dfadadasdas dadasdadasdasdasdasd
 ,{'url':'img/p1/19.jpg','description':'CHATHEAD'},{'url':'img/p1/20.jpg','description':'STICKER'},
 {'url':'img/p1/21.jpg','description':'EMOJI DESIGN'}
 ,{'url':'img/p1/22.jpg','description':'MAGIC TAPE'},{'url':'img/p1/23.jpg','description':'MAGIC TAPE'},{'url':'img/p1/24.jpg','description':'MAGIC TAPE'}
-,{'url':'img/p1/25.jpg','description':'KEY RING'},{'url':'img/p1/26.jpg','description':'KEY RING'},{'url':'img/p1/27.jpg','description':'KEY RING'}
+,{'url':'img/p1/25.jpg','description':'KEY RING'},{'url':'img/p1/26.JPG','description':'KEY RING'},{'url':'img/p1/27.JPG','description':'KEY RING'}
 ,{'url':'img/p1/28.jpg','description':'EXPERIMENTAL ART'},{'url':'img/p1/29.jpg','description':'EXPERIMENTAL ART'},{'url':'img/p1/30.jpg','description':'EXPERIMENTAL ART'}
 ,{'url':'img/p1/31.jpg','description':'EXPERIMENTAL ART'}]};
 
